@@ -1,0 +1,25 @@
+.corpo {
+	font-family: Verdana;
+	font-size: 12pt;
+	line-height: normal;
+	color: #000000;
+	text-align: justify;
+    margin-top: 2;
+    margin-bottom: 2;
+}
+
+a:link {
+	color: #FFFFFF;
+	font-family: Verdana;
+	font-size: 12pt;
+
+
+}
+a:visited {
+	color: #FFFFFF;
+	font-family: Verdana;
+	font-size: 12pt;
+	
+}
+
+

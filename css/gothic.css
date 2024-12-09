@@ -1,0 +1,31 @@
+.geral {
+	font-family: Verdana;
+	font-size: 10pt;
+	line-height: normal;
+	color: #D0A375;
+	text-align: justify;
+	text-indent: 20pt;
+    margin-top: 6;
+    margin-bottom: 6;
+}
+
+a:link {
+	color: #754f00;
+}
+a:visited {
+	color: #754f00;
+}
+ul {
+	color: #754f00;
+	text-align: justify;
+	margin-left: 20; 
+}
+
+li {
+    margin-top: 6; 
+	margin-bottom: 6;
+}
+
+hr {
+	color: 987654;
+}

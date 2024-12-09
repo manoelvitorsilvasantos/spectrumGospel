@@ -1,0 +1,27 @@
+.principais {
+	font-family: Verdana;
+	font-size: 10pt;
+	line-height: normal;
+	color: #000000;
+	text-align: justify;
+	text-indent: 20pt;
+    margin-top: 2;
+    margin-bottom: 2;
+}
+
+a:link {
+	color: #000000;
+	font-family: Verdana;
+	font-size: 10pt;
+	text-decoration:none
+
+}
+a:visited {
+	color: #000000;
+	font-family: Verdana;
+	font-size: 10pt;
+	text-decoration:none
+
+}
+
+

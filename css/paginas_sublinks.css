@@ -1,0 +1,37 @@
+.sublinks {
+	color: #D0A375;
+	list-style-type: circle;
+	line-height: normal;
+	font-family: Verdana;
+	font-size: 10pt;
+	text-align: justify;
+	text-indent: 20pt;
+	margin-top: 6;
+    margin-bottom: 6;
+
+	
+}
+a:link {
+	color: #D0A375;
+	font-family: Verdana;
+	font-size: 12pt;
+	text-decoration:none
+
+}
+a:visited {
+	color: #8b8b8b;
+	font-family: Verdana;
+	font-size: 12pt;
+	text-decoration:none
+
+}
+ul {
+	color: #754f00;
+	text-align: justify;
+	margin-left: 100; 
+}
+
+li {
+	margin-top: 8; 
+	margin-bottom: 8;
+}

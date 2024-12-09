@@ -1,0 +1,58 @@
+.geral {
+	font-family: Verdana;
+	font-size: 10pt;
+	line-height: normal;
+	color: #D0A375;
+	text-align: justify;
+	text-indent: 20pt;
+    margin-top: 6;
+    margin-bottom: 6;
+}
+
+.bandas{
+	font-family: Verdana;
+	font-size: 10pt;
+	line-height: normal;
+	color: #ffffff;
+	text-align: justify;
+	text-indent: 20pt;
+    margin-top: 6;
+    margin-bottom: 6;
+}
+
+.entrevistas{
+	font-family: Verdana;
+	font-size: 10pt;
+	line-height: normal;
+	color: #ffffff;
+	text-align: justify;
+	margin-top: 3;
+    margin-bottom: 3;
+}
+
+.letras{
+	font-family: Verdana;
+	font-size: 10pt;
+	line-height: normal;
+	color: #ffffff;
+	text-align: justify;
+	margin-top: 3;
+    margin-bottom: 3;
+}
+
+a:link {
+	color: #808080;
+}
+a:visited {
+	color: #808080;
+}
+ul {
+	color: #8b8b8b;
+	text-align: justify;
+	margin-left: 20; 
+}
+
+li {
+    margin-top: 6; 
+	margin-bottom: 6;
+}
